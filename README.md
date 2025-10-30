@@ -1,56 +1,31 @@
 # Zimore Company Website
 
-![Zimore Logo](images/logo.png)
+Official website for Zimore Trading Technology Company.
 
-Official website for Zimore Trading Technology Company based in Changzhou, China.
+## About
 
-## 🌐 Live Website
-[https://your-username.github.io/zimore-website](https://your-username.github.io/zimore-website)
+Zimore is a trading technology company based in Changzhou, China, specializing in import/export services, technology promotion, and industrial equipment sales.
 
-*Replace "your-username" with your actual GitHub username*
+## Features
 
-## 🏢 Company Overview
+- Responsive design for all devices
+- Professional company presentation
+- Service showcase
+- Contact form integration
 
-Zimore is a premier trading technology company specializing in:
+## Technologies
 
-- **Technology Promotion & Application Services**
-- **Import & Export Services** (Goods & Technology)
-- **Electronic Components & Equipment Sales**
-- **Smart Robotics Research & Development**
-- **Industrial Machinery & Equipment**
-- **Technical Services & Consulting**
+- HTML5, CSS3, JavaScript
+- Font Awesome Icons
+- GitHub Pages hosting
 
-## 🚀 Website Features
+## Deployment
 
-- **Responsive Design** - Optimized for all devices (desktop, tablet, mobile)
-- **Modern UI/UX** - Clean, professional design with intuitive navigation
-- **Service Showcase** - Comprehensive display of company services
-- **Contact Integration** - Easy-to-use contact form for business inquiries
-- **Fast Loading** - Optimized performance for better user experience
-- **Cross-Browser Compatible** - Works on all major browsers
+1. Upload files to GitHub repository
+2. Enable GitHub Pages in settings
+3. Website available at: `https://username.github.io/zimore-website`
 
-## 🛠 Technologies Used
+## Contact
 
-- **HTML5** - Semantic markup and modern structure
-- **CSS3** - Advanced styling with CSS Grid and Flexbox
-- **JavaScript** - Interactive elements and smooth scrolling
-- **Font Awesome** - Professional icons
-- **GitHub Pages** - Free hosting and deployment
-
-## 📁 Project Structure
-
-## 🚀 Quick Start
-
-### Prerequisites
-- GitHub account
-- Web browser for testing
-
-### Installation & Deployment
-
-1. **Create GitHub Repository**
-   ```bash
-   # Create new repository on GitHub.com
-   Repository name: zimore-website
-   Description: Official website for Zimore Trading Technology Company
-   Visibility: Public
-   Initialize with README: Yes
+- Email: info@zimore.com
+- Location: Changzhou, Jiangsu Province, China
